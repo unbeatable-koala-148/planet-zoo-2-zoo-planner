@@ -1,0 +1,22 @@
+{
+  "name": "planet-zoo-2-zoo-planner",
+  "displayName": "Planet Zoo 2 Zoo Planner",
+  "programType": "zoo-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Habitat groups",
+    "Project notes",
+    "Park profiles"
+  ],
+  "topics": [
+    "planet-zoo-2-zoo-planner",
+    "planet-zoo-2-tools",
+    "planet-zoo-2-menu",
+    "planet-zoo-2-settings",
+    "planet-zoo-2-configs",
+    "planet-zoo-2-habitat-groups",
+    "planet-zoo-2-project-notes"
+  ]
+}
